@@ -1,0 +1,22 @@
+#namerica,
+#samerica,
+#asia,
+#oceania,
+#africa,
+#europe,
+#previous {
+  display: none;
+}
+
+.article {
+  height: auto;
+  position: inline-block;
+  padding: 30px;
+}
+
+.article img {
+  float: left;
+  width: 150px;
+  height: 100px;
+  margin-right: 10px;
+}
